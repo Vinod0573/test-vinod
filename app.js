@@ -1,4 +1,4 @@
 const express = require('express')
 const app = express()
-app.get('/',(req,res)=>res.send('Hello Sreejit sir'))
+app.get('/',(req,res)=>res.send('Hello the code is deployed'))
 app.listen(80)
