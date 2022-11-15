@@ -1,4 +1,4 @@
 const express = require('express')
 const app = express()
-app.get('/',(req,res)=>res.send('Hello India'))
+app.get('/',(req,res)=>res.send('Hello Karnataka'))
 app.listen(80)
